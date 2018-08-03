@@ -1,6 +1,6 @@
 Fixed Collison for Bahama Mama's with working doors
 
-This add fucntioning doors, and allows you to walk right in from off the street.
+This adds fucntioning doors and allows you to walk right in from off the street.
 
 If you are interested in locking the doors for a job, here is the data for the doors.
 
