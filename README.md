@@ -7,14 +7,14 @@ If you are interested in locking the doors for a job, here is the data for the d
 Door 1:
 
 Arch: v_ilev_ph_gendoor006
-pos:  -1387.026, -586.6138, 30.49563
-rot:  0, 0, -0.2839777, 0.9588309
+Pos:  -1387.026, -586.6138, 30.49563
+Rot:  0, 0, -0.2839777, 0.9588309
 
 Door 2:
 
 Arch: v_ilev_ph_gendoor006
-pos:  -1389.212, -588.0406, 30.49132
-rot:  0, 0, -0.9581082, -0.2864065
+Pos:  -1389.212, -588.0406, 30.49132
+Rot:  0, 0, -0.9581082, -0.2864065
 
 ![screenshot 1](http://www.deathbringerrp.com/images/bhma_1.jpg)
 
