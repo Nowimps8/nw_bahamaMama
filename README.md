@@ -22,7 +22,7 @@ Rot:  0, 0, -0.9581082, -0.2864065
 
 1) Download
 2) Place nw_bahamaMama in your resource folder
-3) start nw_bahamaMama in your server.cfg
+3) place ``ensure nw_bahamaMama`` in your server.cfg
 4) Winning!
 
 ## License
