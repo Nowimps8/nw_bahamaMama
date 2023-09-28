@@ -6,13 +6,13 @@ If you are interested in locking the doors for a job, here is the data for the d
 
 Door 1:
 ```
-Arch: v_ilev_ph_gendoor006
+Model: v_ilev_ph_gendoor006
 Pos:  -1387.026, -586.6138, 30.49563
 Rot:  0, 0, -0.2839777, 0.9588309
 ```
 Door 2:
 ```
-Arch: v_ilev_ph_gendoor006
+Model: v_ilev_ph_gendoor006
 Pos:  -1389.212, -588.0406, 30.49132
 Rot:  0, 0, -0.9581082, -0.2864065
 ```
