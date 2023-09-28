@@ -16,11 +16,14 @@ Arch: v_ilev_ph_gendoor006
 Pos:  -1389.212, -588.0406, 30.49132
 Rot:  0, 0, -0.9581082, -0.2864065
 
-![screenshot 1](http://www.deathbringerrp.com/images/bhma_1.jpg)
+![screenshot 1](https://i.gyazo.com/5b40f600b05da51305e500f9afb15016.jpg)
 
-Install:
+## Install:
 
 1) Download
 2) Place nw_bahamaMama in your resource folder
 3) start nw_bahamaMama in your server.cfg
 4) Winning!
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a>
